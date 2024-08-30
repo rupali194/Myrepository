@@ -11,9 +11,9 @@ function Homepage() {
 
      
    
-    {id:1 , imageurl: edu1, title: "first blog" , paragraph: "paragraph of first blog"}, 
-    {id:2 , imageurl: edu2, title: "second blog" , paragraph: "paragraph of first blog"},
-    {id:3 , imageurl: edu3, title: "third blog" , paragraph: "paragraph of first blog"}
+    {id:1 , imageurl: edu1, title: "first blog" , paragraph: "Create a beautiful blog that fits your style. Choose from a selection of easy-to-use templates – all with flexible layouts and hundreds of background images – or design something new."}, 
+    {id:2 , imageurl: edu2, title: "second blog" , paragraph: "Get paid for your hard work. Google AdSense can automatically display relevant targeted ads on your blog so that you can earn income by posting about your passion."},
+    {id:3 , imageurl: edu3, title: "third blog" , paragraph: "Find out which posts are a hit with Blogger’s built-in analytics. You’ll see where your audience is coming from and what they’re interested in. You can even connect your blog directly to Google Analytics for a more detailed look."}
 
   
 
